@@ -1,0 +1,51 @@
+order_id,customer_id,restaurant_name,cuisine_type,city,state,region,order_date,order_time,delivery_time_mins,order_value,delivery_fee,tip_amount,payment_method,platform,rating,is_repeat_customer,weather_condition,day_of_week
+1001,C5001,Burger Palace,American,New York,NY,Northeast,2025-01-15,12:30,28,24.99,3.99,4.00,Credit Card,DoorDash,4.5,Yes,Clear,Wednesday
+1002,C5002,Pizza Express,Italian,Los Angeles,CA,West,2025-01-15,19:45,35,32.50,4.99,5.00,Digital Wallet,Uber Eats,4.8,Yes,Clear,Wednesday
+1003,C5003,Taco Fiesta,Mexican,Houston,TX,South,2025-01-15,13:15,22,18.75,2.99,3.00,Credit Card,Grubhub,4.2,No,Cloudy,Wednesday
+1004,C5004,Golden Dragon,Chinese,Chicago,IL,Midwest,2025-01-15,18:30,40,45.00,5.99,6.00,Credit Card,DoorDash,4.6,Yes,Snow,Wednesday
+1005,C5005,Sushi Master,Japanese,San Francisco,CA,West,2025-01-15,20:00,32,55.25,4.99,8.00,Digital Wallet,Uber Eats,4.9,Yes,Rain,Wednesday
+1006,C5006,BBQ Pit,American,Dallas,TX,South,2025-01-16,12:00,25,28.50,3.99,4.50,Debit Card,DoorDash,4.3,No,Clear,Thursday
+1007,C5007,Pasta House,Italian,Miami,FL,South,2025-01-16,19:30,38,42.00,4.99,6.00,Credit Card,Grubhub,4.7,Yes,Clear,Thursday
+1008,C5008,Curry Palace,Indian,Seattle,WA,West,2025-01-16,18:45,30,35.75,3.99,5.00,Digital Wallet,Uber Eats,4.4,No,Rain,Thursday
+1009,C5009,Thai Orchid,Thai,Boston,MA,Northeast,2025-01-16,20:15,42,38.25,5.99,5.50,Credit Card,DoorDash,4.5,Yes,Snow,Thursday
+1010,C5010,Mediterranean Grill,Mediterranean,Phoenix,AZ,West,2025-01-16,13:00,20,26.00,2.99,3.50,Debit Card,Grubhub,4.1,No,Clear,Thursday
+1011,C5011,Burger Palace,American,New York,NY,Northeast,2025-01-17,12:15,30,22.50,3.99,4.00,Credit Card,DoorDash,4.4,Yes,Clear,Friday
+1012,C5012,Pho Vietnam,Vietnamese,Los Angeles,CA,West,2025-01-17,11:30,28,19.99,2.99,3.00,Digital Wallet,Uber Eats,4.6,No,Clear,Friday
+1013,C5013,Taco Fiesta,Mexican,Austin,TX,South,2025-01-17,13:45,24,21.25,3.99,3.50,Credit Card,Postmates,4.3,Yes,Clear,Friday
+1014,C5014,Wings & Things,American,Atlanta,GA,South,2025-01-17,18:00,35,29.99,4.99,4.00,Debit Card,DoorDash,4.2,No,Cloudy,Friday
+1015,C5015,Sushi Master,Japanese,San Diego,CA,West,2025-01-17,19:30,33,48.50,4.99,7.00,Credit Card,Uber Eats,4.8,Yes,Clear,Friday
+1016,C5016,Pizza Express,Italian,Denver,CO,West,2025-01-18,12:00,26,27.99,3.99,4.00,Digital Wallet,DoorDash,4.5,No,Snow,Saturday
+1017,C5017,Korean BBQ House,Korean,New York,NY,Northeast,2025-01-18,19:00,38,52.00,5.99,7.50,Credit Card,Grubhub,4.7,Yes,Clear,Saturday
+1018,C5018,Soul Food Kitchen,American,Chicago,IL,Midwest,2025-01-18,13:30,32,34.50,4.99,5.00,Debit Card,DoorDash,4.4,Yes,Snow,Saturday
+1019,C5019,Burrito Bros,Mexican,Los Angeles,CA,West,2025-01-18,14:15,22,16.99,2.99,2.50,Digital Wallet,Uber Eats,4.1,No,Clear,Saturday
+1020,C5020,Dim Sum Palace,Chinese,San Francisco,CA,West,2025-01-18,11:00,35,41.25,4.99,6.00,Credit Card,DoorDash,4.6,Yes,Cloudy,Saturday
+1021,C5021,Greek Taverna,Mediterranean,Boston,MA,Northeast,2025-01-19,18:30,40,36.75,5.99,5.00,Credit Card,Grubhub,4.5,No,Clear,Sunday
+1022,C5022,Ramen Shop,Japanese,Seattle,WA,West,2025-01-19,12:45,28,24.99,3.99,4.00,Digital Wallet,Uber Eats,4.7,Yes,Rain,Sunday
+1023,C5023,Southern Comfort,American,Nashville,TN,South,2025-01-19,13:00,25,31.50,3.99,4.50,Debit Card,DoorDash,4.3,No,Clear,Sunday
+1024,C5024,Tandoori Nights,Indian,Houston,TX,South,2025-01-19,19:15,33,39.99,4.99,5.50,Credit Card,Postmates,4.6,Yes,Clear,Sunday
+1025,C5025,Poke Bowl,Hawaiian,Miami,FL,South,2025-01-19,14:00,30,22.75,3.99,3.50,Digital Wallet,Uber Eats,4.4,No,Clear,Sunday
+1026,C5026,Cajun Kitchen,American,New Orleans,LA,South,2025-01-20,12:30,27,28.25,3.99,4.00,Credit Card,DoorDash,4.5,Yes,Cloudy,Monday
+1027,C5027,Falafel House,Mediterranean,Chicago,IL,Midwest,2025-01-20,13:15,32,19.50,2.99,3.00,Debit Card,Grubhub,4.2,No,Snow,Monday
+1028,C5028,Sichuan Garden,Chinese,New York,NY,Northeast,2025-01-20,18:45,36,47.00,5.99,6.50,Credit Card,Uber Eats,4.8,Yes,Clear,Monday
+1029,C5029,Taqueria Maria,Mexican,Phoenix,AZ,West,2025-01-20,19:30,23,17.25,2.99,2.50,Digital Wallet,DoorDash,4.0,No,Clear,Monday
+1030,C5030,Steakhouse Express,American,Dallas,TX,South,2025-01-20,20:00,40,62.50,5.99,9.00,Credit Card,Grubhub,4.9,Yes,Clear,Monday
+1031,C5031,Pad Thai Palace,Thai,Los Angeles,CA,West,2025-01-21,12:00,29,23.75,3.99,3.50,Debit Card,Uber Eats,4.4,No,Clear,Tuesday
+1032,C5032,Pizza Express,Italian,Philadelphia,PA,Northeast,2025-01-21,18:30,34,35.99,4.99,5.00,Credit Card,DoorDash,4.6,Yes,Cloudy,Tuesday
+1033,C5033,Burger Palace,American,San Antonio,TX,South,2025-01-21,13:00,26,21.50,3.99,3.50,Digital Wallet,Postmates,4.3,No,Clear,Tuesday
+1034,C5034,Bibimbap House,Korean,Seattle,WA,West,2025-01-21,19:15,31,29.99,4.99,4.50,Credit Card,Grubhub,4.5,Yes,Rain,Tuesday
+1035,C5035,Fish & Chips Co,American,Boston,MA,Northeast,2025-01-21,12:45,38,26.25,4.99,4.00,Debit Card,DoorDash,4.2,No,Snow,Tuesday
+1036,C5036,Curry House,Indian,San Jose,CA,West,2025-01-22,18:00,30,33.50,3.99,5.00,Credit Card,Uber Eats,4.6,Yes,Clear,Wednesday
+1037,C5037,Taco Bell Express,Mexican,Jacksonville,FL,South,2025-01-22,12:30,20,14.99,2.99,2.00,Digital Wallet,DoorDash,3.9,No,Clear,Wednesday
+1038,C5038,Noodle House,Chinese,Columbus,OH,Midwest,2025-01-22,19:00,35,27.75,4.99,4.00,Credit Card,Grubhub,4.4,Yes,Cloudy,Wednesday
+1039,C5039,Pita Grill,Mediterranean,Charlotte,NC,South,2025-01-22,13:15,28,21.00,3.99,3.00,Debit Card,Postmates,4.1,No,Clear,Wednesday
+1040,C5040,Sushi Roll,Japanese,Portland,OR,West,2025-01-22,20:00,33,44.50,4.99,6.50,Credit Card,Uber Eats,4.7,Yes,Rain,Wednesday
+1041,C5041,BBQ Junction,American,Kansas City,MO,Midwest,2025-01-23,12:15,24,32.99,3.99,4.50,Digital Wallet,DoorDash,4.5,No,Clear,Thursday
+1042,C5042,Lasagna Mama,Italian,Detroit,MI,Midwest,2025-01-23,18:45,37,38.25,4.99,5.50,Credit Card,Grubhub,4.6,Yes,Snow,Thursday
+1043,C5043,Veggie Delight,American,Austin,TX,South,2025-01-23,13:00,22,19.75,2.99,3.00,Debit Card,Uber Eats,4.3,No,Clear,Thursday
+1044,C5044,Wok Express,Chinese,Las Vegas,NV,West,2025-01-23,19:30,30,31.50,3.99,4.50,Credit Card,DoorDash,4.4,Yes,Clear,Thursday
+1045,C5045,Shawarma King,Mediterranean,Minneapolis,MN,Midwest,2025-01-23,12:45,34,24.25,4.99,3.50,Digital Wallet,Postmates,4.2,No,Snow,Thursday
+1046,C5046,Fried Chicken Co,American,Memphis,TN,South,2025-01-24,12:00,26,23.99,3.99,3.50,Credit Card,DoorDash,4.4,Yes,Clear,Friday
+1047,C5047,Teriyaki Express,Japanese,Denver,CO,West,2025-01-24,18:30,31,26.50,3.99,4.00,Debit Card,Uber Eats,4.5,No,Snow,Friday
+1048,C5048,Enchilada House,Mexican,San Diego,CA,West,2025-01-24,19:15,25,28.75,3.99,4.00,Credit Card,Grubhub,4.3,Yes,Clear,Friday
+1049,C5049,Biryani Palace,Indian,Atlanta,GA,South,2025-01-24,20:00,38,42.00,5.99,6.00,Digital Wallet,DoorDash,4.7,Yes,Cloudy,Friday
+1050,C5050,Pho House,Vietnamese,Oakland,CA,West,2025-01-24,13:00,27,18.50,2.99,2.50,Credit Card,Uber Eats,4.2,No,Clear,Friday
