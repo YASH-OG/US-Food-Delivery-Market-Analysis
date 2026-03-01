@@ -1,3 +1,7 @@
+## 🚀 Live Deployment
+
+🔗 https://tscrazy.streamlit.app
+
 # US-Food-Delivery-Market-Analysis
 U.S. Food Delivery Market Competition Analysis
 
